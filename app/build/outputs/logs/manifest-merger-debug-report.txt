@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:2:1-108:12
+INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:2:1-108:12
+INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:2:1-108:12
+INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:2:1-108:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\952f02a09d675a4a85c94c846114c9c8\transformed\design-23.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\4ba24dcdaa8bb323efa4fb853ff84438\transformed\appcompat-v7-23.4.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\e3618243df09de3fe6ba058913bf6123\transformed\animated-vector-drawable-23.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\0d9abc71b62693ad559e5d05b0a118a2\transformed\support-vector-drawable-23.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\af5fd0a7e3e206dba93d8c2a338a3e44\transformed\recyclerview-v7-23.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\08c1fd85628c22befce0ab5c86de3d9f\transformed\support-v4-23.4.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:2:1-108:12
+INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:2:1-108:12
+INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:2:1-108:12
+	package
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:2:1-108:12
+		INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:2:1-108:12
+		INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:9:5-106:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\952f02a09d675a4a85c94c846114c9c8\transformed\design-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\952f02a09d675a4a85c94c846114c9c8\transformed\design-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\4ba24dcdaa8bb323efa4fb853ff84438\transformed\appcompat-v7-23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\4ba24dcdaa8bb323efa4fb853ff84438\transformed\appcompat-v7-23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\e3618243df09de3fe6ba058913bf6123\transformed\animated-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\e3618243df09de3fe6ba058913bf6123\transformed\animated-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\0d9abc71b62693ad559e5d05b0a118a2\transformed\support-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\0d9abc71b62693ad559e5d05b0a118a2\transformed\support-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\08c1fd85628c22befce0ab5c86de3d9f\transformed\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\08c1fd85628c22befce0ab5c86de3d9f\transformed\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:14:9-40
+activity#jakhar.aseem.diva.MainActivity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:22:27-74
+activity#jakhar.aseem.diva.LogActivity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:25:9-28:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:27:13-39
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:26:13-40
+activity#jakhar.aseem.diva.HardcodeActivity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:29:9-32:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:31:13-39
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:30:13-45
+activity#jakhar.aseem.diva.InsecureDataStorage1Activity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:33:9-36:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:35:13-39
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:34:13-57
+activity#jakhar.aseem.diva.InsecureDataStorage2Activity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:37:9-40:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:39:13-39
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:38:13-57
+activity#jakhar.aseem.diva.InsecureDataStorage3Activity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:41:9-44:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:43:13-39
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:42:13-57
+activity#jakhar.aseem.diva.InsecureDataStorage4Activity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:45:9-48:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:47:13-39
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:46:13-57
+activity#jakhar.aseem.diva.SQLInjectionActivity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:49:9-52:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:51:13-39
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:50:13-49
+activity#jakhar.aseem.diva.InputValidation2URISchemeActivity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:53:9-56:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:55:13-39
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:54:13-62
+activity#jakhar.aseem.diva.AccessControl1Activity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:57:9-60:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:59:13-39
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:58:13-51
+activity#jakhar.aseem.diva.APICredsActivity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:61:9-69:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:63:13-47
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:62:13-45
+intent-filter#action:name:jakhar.aseem.diva.action.VIEW_CREDS+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:64:13-68:29
+action#jakhar.aseem.diva.action.VIEW_CREDS
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:65:17-78
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:65:25-75
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:67:17-76
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:67:27-73
+activity#jakhar.aseem.diva.AccessControl2Activity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:70:9-73:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:72:13-40
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:71:13-51
+activity#jakhar.aseem.diva.APICreds2Activity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:74:9-82:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:76:13-48
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:75:13-46
+intent-filter#action:name:jakhar.aseem.diva.action.VIEW_CREDS2+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:77:13-81:29
+action#jakhar.aseem.diva.action.VIEW_CREDS2
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:78:17-79
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:78:25-76
+provider#jakhar.aseem.diva.NotesProvider
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:84:9-89:20
+	android:enabled
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:87:13-35
+	android:authorities
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:86:13-75
+	android:exported
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:88:13-36
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:85:13-42
+activity#jakhar.aseem.diva.AccessControl3Activity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:91:9-94:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:93:13-40
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:92:13-51
+activity#jakhar.aseem.diva.Hardcode2Activity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:95:9-98:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:97:13-40
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:96:13-46
+activity#jakhar.aseem.diva.AccessControl3NotesActivity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:99:9-102:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:101:13-43
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:100:13-56
+activity#jakhar.aseem.diva.InputValidation3Activity
+ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:103:9-105:20
+	android:label
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:104:13-40
+	android:name
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:103:19-59
+uses-sdk
+INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\952f02a09d675a4a85c94c846114c9c8\transformed\design-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\952f02a09d675a4a85c94c846114c9c8\transformed\design-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\4ba24dcdaa8bb323efa4fb853ff84438\transformed\appcompat-v7-23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\4ba24dcdaa8bb323efa4fb853ff84438\transformed\appcompat-v7-23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\e3618243df09de3fe6ba058913bf6123\transformed\animated-vector-drawable-23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\e3618243df09de3fe6ba058913bf6123\transformed\animated-vector-drawable-23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\0d9abc71b62693ad559e5d05b0a118a2\transformed\support-vector-drawable-23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\0d9abc71b62693ad559e5d05b0a118a2\transformed\support-vector-drawable-23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\af5fd0a7e3e206dba93d8c2a338a3e44\transformed\recyclerview-v7-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\af5fd0a7e3e206dba93d8c2a338a3e44\transformed\recyclerview-v7-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\08c1fd85628c22befce0ab5c86de3d9f\transformed\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\08c1fd85628c22befce0ab5c86de3d9f\transformed\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chu\.gradle\caches\transforms-3\4ba24dcdaa8bb323efa4fb853ff84438\transformed\appcompat-v7-23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml

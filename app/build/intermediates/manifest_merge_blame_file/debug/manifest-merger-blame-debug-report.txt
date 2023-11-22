@@ -1,0 +1,202 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="jakhar.aseem.diva"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="23" />
+9-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:5:5-81
+11-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:7:5-67
+13-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:7:22-64
+14
+15    <application
+15-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:9:5-106:19
+16        android:allowBackup="true"
+16-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:10:9-35
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:11:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:12:9-41
+20        android:supportsRtl="true"
+20-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:13:9-35
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:14:9-40
+22        <activity
+22-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:15:9-24:20
+23            android:name="jakhar.aseem.diva.MainActivity"
+23-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:16:13-41
+24            android:label="@string/app_name"
+24-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:17:13-45
+25            android:theme="@style/AppTheme.NoActionBar" >
+25-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:18:13-56
+26            <intent-filter>
+26-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:19:13-23:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:20:17-69
+27-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:20:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:22:17-77
+29-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:22:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:25:9-28:20
+33            android:name="jakhar.aseem.diva.LogActivity"
+33-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:26:13-40
+34            android:label="@string/d1" >
+34-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:27:13-39
+35        </activity>
+36        <activity
+36-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:29:9-32:20
+37            android:name="jakhar.aseem.diva.HardcodeActivity"
+37-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:30:13-45
+38            android:label="@string/d2" >
+38-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:31:13-39
+39        </activity>
+40        <activity
+40-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:33:9-36:20
+41            android:name="jakhar.aseem.diva.InsecureDataStorage1Activity"
+41-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:34:13-57
+42            android:label="@string/d3" >
+42-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:35:13-39
+43        </activity>
+44        <activity
+44-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:37:9-40:20
+45            android:name="jakhar.aseem.diva.InsecureDataStorage2Activity"
+45-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:38:13-57
+46            android:label="@string/d4" >
+46-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:39:13-39
+47        </activity>
+48        <activity
+48-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:41:9-44:20
+49            android:name="jakhar.aseem.diva.InsecureDataStorage3Activity"
+49-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:42:13-57
+50            android:label="@string/d5" >
+50-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:43:13-39
+51        </activity>
+52        <activity
+52-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:45:9-48:20
+53            android:name="jakhar.aseem.diva.InsecureDataStorage4Activity"
+53-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:46:13-57
+54            android:label="@string/d6" >
+54-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:47:13-39
+55        </activity>
+56        <activity
+56-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:49:9-52:20
+57            android:name="jakhar.aseem.diva.SQLInjectionActivity"
+57-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:50:13-49
+58            android:label="@string/d7" >
+58-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:51:13-39
+59        </activity>
+60        <activity
+60-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:53:9-56:20
+61            android:name="jakhar.aseem.diva.InputValidation2URISchemeActivity"
+61-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:54:13-62
+62            android:label="@string/d8" >
+62-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:55:13-39
+63        </activity>
+64        <activity
+64-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:57:9-60:20
+65            android:name="jakhar.aseem.diva.AccessControl1Activity"
+65-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:58:13-51
+66            android:label="@string/d9" >
+66-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:59:13-39
+67        </activity>
+68        <activity
+68-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:61:9-69:20
+69            android:name="jakhar.aseem.diva.APICredsActivity"
+69-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:62:13-45
+70            android:label="@string/apic_label" >
+70-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:63:13-47
+71            <intent-filter>
+71-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:64:13-68:29
+72                <action android:name="jakhar.aseem.diva.action.VIEW_CREDS" />
+72-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:65:17-78
+72-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:65:25-75
+73
+74                <category android:name="android.intent.category.DEFAULT" />
+74-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:67:17-76
+74-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:67:27-73
+75            </intent-filter>
+76        </activity>
+77        <activity
+77-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:70:9-73:20
+78            android:name="jakhar.aseem.diva.AccessControl2Activity"
+78-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:71:13-51
+79            android:label="@string/d10" >
+79-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:72:13-40
+80        </activity>
+81        <activity
+81-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:74:9-82:20
+82            android:name="jakhar.aseem.diva.APICreds2Activity"
+82-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:75:13-46
+83            android:label="@string/apic2_label" >
+83-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:76:13-48
+84            <intent-filter>
+84-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:77:13-81:29
+85                <action android:name="jakhar.aseem.diva.action.VIEW_CREDS2" />
+85-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:78:17-79
+85-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:78:25-76
+86
+87                <category android:name="android.intent.category.DEFAULT" />
+87-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:67:17-76
+87-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:67:27-73
+88            </intent-filter>
+89        </activity>
+90
+91        <provider
+91-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:84:9-89:20
+92            android:name="jakhar.aseem.diva.NotesProvider"
+92-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:85:13-42
+93            android:authorities="jakhar.aseem.diva.provider.notesprovider"
+93-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:86:13-75
+94            android:enabled="true"
+94-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:87:13-35
+95            android:exported="true" >
+95-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:88:13-36
+96        </provider>
+97
+98        <activity
+98-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:91:9-94:20
+99            android:name="jakhar.aseem.diva.AccessControl3Activity"
+99-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:92:13-51
+100            android:label="@string/d11" >
+100-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:93:13-40
+101        </activity>
+102        <activity
+102-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:95:9-98:20
+103            android:name="jakhar.aseem.diva.Hardcode2Activity"
+103-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:96:13-46
+104            android:label="@string/d12" >
+104-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:97:13-40
+105        </activity>
+106        <activity
+106-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:99:9-102:20
+107            android:name="jakhar.aseem.diva.AccessControl3NotesActivity"
+107-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:100:13-56
+108            android:label="@string/pnotes" >
+108-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:101:13-43
+109        </activity>
+110        <activity
+110-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:103:9-105:20
+111            android:name="jakhar.aseem.diva.InputValidation3Activity"
+111-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:103:19-59
+112            android:label="@string/d13" >
+112-->C:\Users\Chu\Desktop\diva-android\app\src\main\AndroidManifest.xml:104:13-40
+113        </activity>
+114    </application>
+115
+116</manifest>
